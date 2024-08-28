@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Rome", "Berlin"],
+        "correct_option": "A"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correct_option": "C"
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": ["Harper Lee", "Mark Twain", "J.K. Rowling", "Ernest Hemingway"],
+        "correct_option": "A"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "Pb", "Fe"],
+        "correct_option": "A"
+    },
+    {
+        "question": "What is the speed of light in a vacuum?",
+        "options": ["3 x 10^8 m/s", "1 x 10^8 m/s", "5 x 10^8 m/s", "7 x 10^8 m/s"],
+        "correct_option": "A"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+        "correct_option": "A"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "options": ["1", "2", "3", "5"],
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the boiling point of water at sea level?",
+        "options": ["90°C", "100°C", "110°C", "120°C"],
+        "correct_option": "B"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+        "correct_option": "A"
+    },
+    {
+        "question": "Which element has the atomic number 1?",
+        "options": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
+        "correct_option": "A"
+    }
+]
